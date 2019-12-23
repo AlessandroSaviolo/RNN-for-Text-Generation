@@ -1,1 +1,1 @@
-# DeepLearning_0845086_HW3
+# Recursive Neural Network for Text Generation
