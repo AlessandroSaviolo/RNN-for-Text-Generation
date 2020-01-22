@@ -12,14 +12,4 @@ The purpose of this project is to implement a Recursive Neural Network for Text 
 
 ## 2. Project Structure
 
-- `main.py` : main function, use it to change task ('r' or 'c') and hyperparameters (i.e., learning rate, number of epochs)
-
-- `model.py` : contains the regression and classification neural network models
-
-- `regression.py` : run regression using the relative model from model.py, use it to change the hyperparameters of the model (i.e., number of neurons)
-
-- `classification.py` : run classification using the relative model from model.py, use it to change the hyperparameters of the model (i.e., number of neurons)
-
-- `utilities.py` : contains plot functions and common functions among the different files (i.e., load dataset which is used both for regression and classification)
-
-- `deep_classification.py` : deep classifier used to plot the distribution of latent features at different training stages. It contains also the deep model
+See `RNNtextgenerator.ipynb` for all the details about the implementation of the RNN model.
